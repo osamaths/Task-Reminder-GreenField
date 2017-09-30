@@ -1,0 +1,19 @@
+{
+  "name": "asynco",
+  "version": "1.0.0",
+  "description": "registration system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamaths/Task-Reminder-GreenField.git"
+  },
+  "author": "Asynco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osamaths/Task-Reminder-GreenField/issues"
+  },
+  "homepage": "https://github.com/osamaths/Task-Reminder-GreenField#readme"
+}
